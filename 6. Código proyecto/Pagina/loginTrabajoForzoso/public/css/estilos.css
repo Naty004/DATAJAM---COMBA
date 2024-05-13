@@ -1,0 +1,57 @@
+
+
+/* Color para el texto "Inicio de sesión" */
+h3 {
+    color: #27998C; 
+    font-size: 40px;
+}
+
+/* Color para las etiquetas de correo electrónico y contraseña */
+label {
+    color: #302f2f22; 
+}
+
+/* Color para el botón "Iniciar sesión" */
+.btn-primary {
+    background-color: #123939; 
+    color: #ffffff; 
+}
+
+/* Color para el botón "Registrarse" */
+.btn-secondary {
+    background-color: #27998C; 
+    border-color: #27998C;
+    color: #ffffff; 
+}
+
+.form-control-lg {
+    height: calc(3.5rem + 2px); /* Ajusta la altura de los campos de formulario para que coincidan con el botón */ 
+}
+
+/*register empresa*/
+
+
+h2 {
+    color: #000000; 
+    font-size: 36px; 
+    font-weight: bold; 
+}
+
+h5 {
+    color: #000000; 
+    font-size: 20px; 
+}
+
+.form-control {
+    width: 85%; 
+    margin-bottom: 10px; 
+}
+
+.btn-primary-r {
+    background-color: #27998C; 
+    border-color: #27998C; 
+    color: #FFFFFF; 
+    font-size: 20px; 
+    font-weight: bold; 
+    width: 35%;
+}
